@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GulaySyeda
 - 👀 I’m interested in Product Design and Development
 - 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on challenging projects
 - 📫 Email me at gulaysyeda@gmail.com
 
 <!---
